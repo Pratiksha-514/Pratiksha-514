@@ -1,42 +1,47 @@
-# Pratiksha Patil
-
-Backend Developer Intern | Java & React Developer | REST APIs | CGPA 10
+<!-- CLEAN PROFESSIONAL BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:0F172A&height=200&section=header&text=Pratiksha%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20React%20%7C%20REST%20APIs&descAlignY=60&descSize=18"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-B.E. Computer Engineering student with CGPA 10 and hands-on experience as a Backend Developer Intern at Agricred.  
+🎓 B.E. Computer Engineering — **CGPA: 10**  
+💼 Backend Developer Intern @ **Agricred**  
+👩‍💼 President – AI Forge | Secretary – CESA  
+🧠 Strong foundation in Java, React, REST APIs & Firebase  
+⚡ Focused on scalable architecture and performance optimization  
 
-Strong foundation in Java, React, REST APIs, and Firebase.  
-Focused on building scalable, efficient, and user-centric web applications.
+I build clean, efficient, and scalable web applications that solve real-world problems.
 
 ---
 
 ## 💼 Experience
 
-### Backend Developer Intern – Agricred
-- Developed scalable interfaces for agricultural finance applications  
-- Integrated REST APIs for backend communication  
-- Built reusable components following best practices  
-- Improved system performance and user experience  
+### 🔹 Backend Developer Intern – Agricred
+- Built scalable financial application interfaces  
+- Integrated REST APIs for seamless backend communication  
+- Improved application performance and digital accessibility  
+- Followed reusable component architecture  
 
-### Java Intern – TalentBattle
+### 🔹 Java Intern – TalentBattle
 - Implemented Core Java and OOP principles  
-- Built backend-focused mini projects  
-- Worked with Collections, Exception Handling, and File Processing  
+- Developed backend mini-projects  
+- Worked with Collections and Exception Handling  
+- Strengthened debugging and logical problem-solving skills  
 
 ---
 
 ## 🚀 Projects
 
-### AI-Powered E-Commerce Website
-- Integrated AI chatbot for product recommendations  
-- Implemented voice-based interaction  
-- Built scalable frontend architecture  
+### 🛍 AI-Powered E-Commerce Platform
+- AI chatbot for intelligent product recommendations  
+- Voice-based product interaction  
+- Scalable frontend architecture  
 - Tech: React.js, REST APIs, Firebase  
 
-### Virtual Lost & Found Platform
+### 🔎 Virtual Lost & Found Platform
 - Location-based reporting system  
 - Secure authentication and image upload  
 - Real-time Firebase synchronization  
@@ -63,9 +68,24 @@ Tools: Git, GitHub, VS Code
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=default"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=default"/>
+</p>
+
+---
+
 ## 📫 Contact
 
-Pune, Maharashtra, India  
-Email: patilpratiksha0346@gmail.com  
-LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/  
-Portfolio: https://meek-bublanina-7a242b.netlify.app/
+📍 Pune, Maharashtra, India  
+📧 patilpratiksha0346@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/  
+🌍 Portfolio: https://meek-bublanina-7a242b.netlify.app/
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:1E3A8A&height=120&section=footer"/>
+</p>
