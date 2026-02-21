@@ -1,4 +1,4 @@
-<!-- CLEAN PROFESSIONAL BANNER -->
+<!-- CLEAN CORPORATE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:0F172A&height=200&section=header&text=Pratiksha%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20React%20%7C%20REST%20APIs&descAlignY=60&descSize=18"/>
 </p>
@@ -22,14 +22,14 @@ I build clean, efficient, and scalable web applications that solve real-world pr
 ### 🔹 Backend Developer Intern – Agricred
 - Built scalable financial application interfaces  
 - Integrated REST APIs for seamless backend communication  
-- Improved application performance and digital accessibility  
+- Improved performance and digital accessibility  
 - Followed reusable component architecture  
 
 ### 🔹 Java Intern – TalentBattle
 - Implemented Core Java and OOP principles  
 - Developed backend mini-projects  
 - Worked with Collections and Exception Handling  
-- Strengthened debugging and logical problem-solving skills  
+- Strengthened debugging and logical thinking  
 
 ---
 
@@ -37,7 +37,7 @@ I build clean, efficient, and scalable web applications that solve real-world pr
 
 ### 🛍 AI-Powered E-Commerce Platform
 - AI chatbot for intelligent product recommendations  
-- Voice-based product interaction  
+- Voice-based interaction  
 - Scalable frontend architecture  
 - Tech: React.js, REST APIs, Firebase  
 
@@ -71,8 +71,11 @@ Tools: Git, GitHub, VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=default"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
