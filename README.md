@@ -1,73 +1,73 @@
-<!-- AI Banner -->
+<!-- PREMIUM AI GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:000000&height=200&section=header&text=Pratiksha%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3A0CA3,100:000814&height=220&section=header&text=Pratiksha%20Patil&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20React%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 
-<!-- Animated Typing -->
+<!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Software+Developer+Intern;Backend+%26+React+Developer;AI+Enthusiast;CGPA+10+Engineering+Topper;Building+Scalable+Web+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Backend+Developer+Intern;Java+%7C+React+%7C+REST+APIs;AI-Powered+Application+Builder;Engineering+Topper+(CGPA+10);Building+Scalable+Digital+Solutions"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratiksha-514&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
+</p>
 
-🎓 B.E. Computer Engineering (CGPA: 10)  
-💼 Backend Developer Intern @ Agricred  
-🚀 Passionate about building scalable, high-performance web applications  
-🧠 Strong foundation in Java, React, REST APIs & Firebase  
+---
+
+## 🚀 About Me
+
+🎓 B.E. Computer Engineering — **CGPA: 10**  
+💼 Backend Developer Intern @ **Agricred**  
 👩‍💼 President – AI Forge | Secretary – CESA  
+🧠 Strong in Java, React, REST APIs & Firebase  
+⚡ Focused on scalable architecture & performance optimization  
 
-I love transforming ideas into impactful digital solutions using clean architecture and efficient code.
+I design and develop clean, efficient, and scalable web applications that solve real-world problems.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🔹 Backend Developer Intern – Agricred (Sep 2025 – Present)
-- Developed scalable interfaces for agricultural finance platforms
-- Integrated frontend with backend using REST APIs
-- Built reusable components following best practices
-- Improved digital accessibility to agricultural credit services
-- Optimized performance and user experience
+### 🔹 Backend Developer Intern – Agricred
+- Built scalable financial application interfaces
+- Integrated REST APIs for seamless backend communication
+- Improved performance & digital accessibility
+- Followed reusable component architecture
 
 ### 🔹 Java Intern – TalentBattle
-- Advanced Core Java & OOP implementation
-- Built backend-focused mini projects
-- Applied OOP principles & collections framework
-- Strengthened debugging & problem-solving skills
+- Applied OOP principles in backend mini-projects
+- Worked with Collections, Exception Handling
+- Strengthened debugging & logical thinking
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍 AI-Powered E-Commerce Website
-- AI chatbot for intelligent product recommendations
-- Voice-based interaction
-- Scalable frontend architecture
-- Modern UI/UX design
+### 🛍 AI-Powered E-Commerce Platform
+✨ AI chatbot for intelligent recommendations  
+🎙 Voice-based product interaction  
+📈 Scalable frontend architecture  
 
-Tech: React.js, JavaScript, REST APIs, Firebase  
+Tech Stack: React.js | REST APIs | Firebase  
 
 ---
 
 ### 🔎 Virtual Lost & Found Platform
-- Location-aware reporting system
-- Secure image upload
-- Real-time Firebase sync
-- Automatic geolocation detection
+📍 Automatic geolocation detection  
+🔐 Secure authentication & image upload  
+⚡ Real-time Firebase synchronization  
 
-Tech: React.js, Firebase (Auth, Firestore)
+Tech Stack: React.js | Firebase (Auth, Firestore)
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-**Languages:** Java | JavaScript | SQL  
-**Frontend:** React.js | HTML5 | CSS3  
-**Backend:** REST APIs | Firebase  
-**Core CS:** DSA | OOP | DBMS | OS  
-**Tools:** Git | GitHub | VS Code  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,html,css,firebase,git,github,vscode,mysql&theme=dark" />
+</p>
 
 ---
 
@@ -80,28 +80,28 @@ Tech: React.js, Firebase (Auth, Firestore)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 📍 Pune, Maharashtra, India  
 📧 patilpratiksha0346@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/
-🌐 Portfolio:https://meek-bublanina-7a242b.netlify.app/
+🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/  
+🌍 Portfolio: https://meek-bublanina-7a242b.netlify.app/
 
 ---
 
 <p align="center">
-  ⭐ <i>“Build scalable systems. Write clean code. Lead with impact.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:3A0CA3,100:6C63FF&height=120&section=footer"/>
 </p>
