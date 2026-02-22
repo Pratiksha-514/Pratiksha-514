@@ -70,31 +70,17 @@ Tools: Git, GitHub, VS Code
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
-    height="170"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pratiksha-514&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" 
-    height="170"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=github-dark&hide_border=true" 
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=github-dark&hide_border=true" height="170"/>
 </p>
-
----
 
 ## 📫 Contact
 
