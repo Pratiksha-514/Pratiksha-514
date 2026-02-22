@@ -70,19 +70,10 @@ Tools: Git, GitHub, VS Code
 
 
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+## 📊 Contribution Graph
 
 <p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=github-dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://ghchart.rshah.org/1E3A8A/Pratiksha-514" />
 </p>
 ## 📫 Contact
 
