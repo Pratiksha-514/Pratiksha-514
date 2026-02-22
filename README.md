@@ -70,11 +70,6 @@ Tools: Git, GitHub, VS Code
 
 
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1E3A8A/Pratiksha-514" />
-</p>
 ## 📫 Contact
 
 📍 Pune, Maharashtra, India  
