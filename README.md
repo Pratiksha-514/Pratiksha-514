@@ -68,26 +68,33 @@ Tools: Git, GitHub, VS Code
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=github_dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pratiksha-514&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=github_dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-514&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=github-dark&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Pratiksha-514&theme=github-dark&hide_border=true" 
+  />
 </p>
-
 ## 📫 Contact
 
 📍 Pune, Maharashtra, India  
 📧 patilpratiksha0346@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/  
-🌍 Portfolio: https://meek-bublanina-7a242b.netlify.app/
+🌍 Portfolio:portfolio-final-qbsx.vercel.app
+
 
 ---
 
