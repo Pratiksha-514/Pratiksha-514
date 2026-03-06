@@ -72,10 +72,10 @@ Tools: Git, GitHub, VS Code
 
 ## 📫 Contact
 
-📍 Pune, Maharashtra, India  
-📧 patilpratiksha0346@gmail.com  
+📍 Location:Pune, Maharashtra, India  
+📧 Email: patilpratiksha0346@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-patil-12b5b032a/  
-🌍 Portfolio:https://portfolio-final-qbsx.vercel.app/
+🌍 Portfolio: https://portfolio-final-qbsx.vercel.app/
 
 
 ---
